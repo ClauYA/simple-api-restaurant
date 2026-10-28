@@ -1,4 +1,6 @@
 # 🍽️ Project: Simple API 2 - Restaurant
+![homepage](img/homepage.png)
+
 Users search for a meal or ingredient, such as `chicken`, `pasta`, or `salad`. The app uses the Spoonacular API to return recipe results, then uses the selected recipe ID to request and display the full recipe information.
 
 ## Project Goal
@@ -28,3 +30,7 @@ Spoonacular provides recipe, ingredient, food, and nutrition data.
 - Allow users to save favorite recipes.
 - Add nutrition information.
 - Add a shopping-list feature.
+
+**live demo**
+
+ https://clauya.github.io/simple-api-restaurant/
